@@ -1,3 +1,6 @@
+@import url('http://fonts.cdnfonts.com/css/expressway-free');
+
+
 *,
 *::after,
 *::before {
@@ -59,7 +62,7 @@ body {
                 width: 100%;
                 display: flex;
                 justify-content: space-between;
-                font-family: "Expressway Free";
+                font-family: 'Expressway Free', sans-serif;
                 font-size: 30px;
                 font-weight: 400;
                 color: #E03A3A;
@@ -124,7 +127,7 @@ body {
     &__cta:link  {
         grid-column: 4 / 5;
         grid-row: 5 / 6;
-        font-family: "Expressway Free";
+        font-family: 'Expressway Free', sans-serif;
         font-size: 30px;
         color: #FFF;
         background-color: #E03A3A;
@@ -148,7 +151,7 @@ body {
         margin-left: 45px;
 
         & h1 {
-            font-family: "Expressway Free";
+            font-family: 'Expressway Free', sans-serif;
             transform: translateY(-25px);
             font-size: 145px;   
             color: #E03A3A;
@@ -229,7 +232,7 @@ body {
     
         &--cta:link,
         &--cta:visited {
-            font-family: "Expressway Free";
+            font-family: 'Expressway Free', sans-serif;
             font-size: 30px;
             color: #FFF;
             background-color: #E03A3A;
@@ -261,7 +264,7 @@ body {
     h1 {
         width: 359px;
         color: #E03A3A;  
-        font-family: 'Expressway Free';
+        font-family: 'Expressway Free', sans-serif;
         font-size: 80px;
         font-weight: 400;
         line-height: 94px;
@@ -377,7 +380,7 @@ body {
     
         h1 {
             color: #FFFFFF;
-            font-family: 'Expressway Free';
+            font-family: 'Expressway Free', sans-serif;
             font-style: normal;
             font-weight: 400;
             font-size: 80px;
@@ -396,7 +399,7 @@ body {
         &--cta:visited,
         &--cta:link  {
       
-        font-family: "Expressway Free";
+        font-family: 'Expressway Free', sans-serif;
         font-size: 30px;
         color: #FFF;
         background-color: #E03A3A;
@@ -422,7 +425,7 @@ body {
 
     h1 {
         color: #E03A3A;
-        font-family: 'Expressway Free';
+        font-family: 'Expressway Free', sans-serif;
         font-size: 80px;
         line-height: 94px;        
     }
@@ -459,7 +462,7 @@ body {
         display: flex;
 
         p {
-            font-family: 'Expressway Free';
+            font-family: 'Expressway Free', sans-serif;
             font-size: 40px;
             line-height: 47px;
             color: #FFFFFF;
