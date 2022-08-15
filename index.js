@@ -4,7 +4,7 @@ let tl1 = gsap.timeline({
     scrollTrigger : {
         trigger : "#header",
         start : "2%",
-        markers : true,
+        // markers : true,
         toggleActions : "play none none none"
     }
 })
@@ -13,7 +13,7 @@ let tl2 = gsap.timeline({
     scrollTrigger : {
         trigger : "#header",
         start : "40%",
-        markers : true,
+        // markers : true,
         toggleActions : "play none none none"
     }
 })
@@ -22,7 +22,7 @@ let tl3 = gsap.timeline({
     scrollTrigger : {
         trigger : "#main",
         start : "15%",
-        markers : true,
+        // markers : true,
         toggleActions : "play none none none"
     }
 })
@@ -31,7 +31,7 @@ let tl4 = gsap.timeline({
     scrollTrigger : {
         trigger : "#main",
         start : "75%",
-        markers : true,
+        // markers : true,
         toggleActions : "play none none none"
     }
 })
@@ -40,7 +40,7 @@ let tRight = gsap.timeline({
     scrollTrigger : {
         trigger : "#header",
         start : "45%",
-        markers : true,
+        // markers : true,
         toggleActions : "play none none none"
     }
 })
@@ -49,7 +49,7 @@ let tLeft = gsap.timeline({
     scrollTrigger : {
         trigger : "#main",
         start : "25%",
-        markers : true,
+        // markers : true,
         toggleActions : "play none none none"
     }
 })
@@ -58,7 +58,7 @@ let tMakeChoice = gsap.timeline({
     scrollTrigger : {
         trigger : "#main",
         start : "80%",
-        markers : true,
+        // markers : true,
         toggleActions : "play none none none"
     }
 })
